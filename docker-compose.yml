@@ -1,0 +1,16 @@
+# build config
+copy:
+  - src/**
+  - package.json
+{
+  "app": {
+    "name": "demo",
+    "debug": false
+  }
+}
+{
+  "app": {
+    "name": "demo",
+    "debug": false
+  }
+}
